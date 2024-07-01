@@ -47,7 +47,7 @@ An algorithm study using C during 2024 Summer Vacation. PDA-pro, CBNU Software D
 {주차}/{Github ID}/{코드.c}
 ```
 
-- 💡 예시: `week4/dolphin1404/11053.c`
+- 💡 예시: `week4/dolphin1404/BOJ_11053.c`
 
 <br/>
 

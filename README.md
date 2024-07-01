@@ -20,12 +20,18 @@ An algorithm study using C during 2024 Summer Vacation. PDA-pro, CBNU Software D
 <table>
  <tr>
     <td align="center"><a href="https://github.com/jinny-l"><img src="https://avatars.githubusercontent.com/dolphin1404" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/jinny-l"><img src="https://avatars.githubusercontent.com/Jhwan02" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/jinny-l"><img src="https://avatars.githubusercontent.com/GamGomYang" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/dolphin1404"><b>dolphin1404</b></a></td>
+    <td align="center"><a href="https://github.com/Jhwan02"><b>Jhwan02</b></a></td>
+    <td align="center"><a href="https://github.com/GamGomYang"><b>GamGomYang</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus"><br/><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus"><br/><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Python-blue?logo=python"><br/>
   </tr> 
 </table>
 

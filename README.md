@@ -2,11 +2,10 @@
 An algorithm study using C during 2024 Summer Vacation. PDA-pro, CBNU Software Dept.
 
 ## ⭐스터디 기간⭐
-#### 2024.07.01 ~ (미정)
-##### 매주 요일 정해야 함.
+#### 2024.07.01. ~ 2024.08.28. (미정)
+##### 매주 수요일 21시
 
 ## 진행방식💻
-- ex)
 - 21시
 	- 매주 최소 7문제를 풀고, 한 사람씩 돌아가면서 자신이 맡은 문제의 코드와 풀이 방식을 설명하고 질의응답. 한 사람당 최대 10분. 
 - 휴식
@@ -19,10 +18,10 @@ An algorithm study using C during 2024 Summer Vacation. PDA-pro, CBNU Software D
 
 <table>
  <tr>
-    <td align="center"><a href="https://github.com/jinny-l"><img src="https://avatars.githubusercontent.com/dolphin1404" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/jinny-l"><img src="https://avatars.githubusercontent.com/Jhwan02" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/jinny-l"><img src="https://avatars.githubusercontent.com/GamGomYang" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/jinny-l"><img src="https://avatars.githubusercontent.com/joehyun000" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/dolphin1404"><img src="https://avatars.githubusercontent.com/dolphin1404" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/Jhwan02"><img src="https://avatars.githubusercontent.com/Jhwan02" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/GamGomYang"><img src="https://avatars.githubusercontent.com/GamGomYang" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/joehyun000"><img src="https://avatars.githubusercontent.com/joehyun000" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/dolphin1404"><b>dolphin1404</b></a></td>
@@ -40,6 +39,7 @@ An algorithm study using C during 2024 Summer Vacation. PDA-pro, CBNU Software D
   </tr> 
 </table>
 
+
 ## 🔍참여 방법🔍
 1. 이 저장소를 `fork` 한다.
 2. 생성된 저장소에 매 주, `week*/Github ID`로 폴더를 생성한다.
@@ -50,7 +50,7 @@ An algorithm study using C during 2024 Summer Vacation. PDA-pro, CBNU Software D
 {주차}/{Github ID}/{코드.c}
 ```
 
-- 💡 예시: `week4/dolphin1404/11053.c`
+- 💡 예시: `week4/dolphin1404/BOJ_11053.c`
 
 <br/>
 

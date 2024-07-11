@@ -1,3 +1,5 @@
+from typing import Sequence, List, Any
+
 number = int(input())
 
 sik = input()
@@ -5,7 +7,7 @@ sik = input()
 sik_list = [0] * number
 
 for i in range(number):
-    sik_list[i] = int(input())
+    sik_list[i] = int(input())   
 
 stack = []
 

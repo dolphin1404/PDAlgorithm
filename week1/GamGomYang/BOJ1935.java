@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Stack;
 
-public class PostfixCalculator {
+public class BOJ1935 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

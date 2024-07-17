@@ -2,14 +2,14 @@
 An algorithm study using C during 2024 Summer Vacation. PDA-pro, CBNU Software Dept.
 
 ## ⭐스터디 기간⭐
-#### 2024.07.01. ~ 2024.08.28. (미정)
+#### 2024.07.01. ~ 2024.08.28.
 ##### 매주 수요일 21시
 
 ## 진행방식💻
-- 21시
+- 22시
 	- 매주 최소 7문제를 풀고, 한 사람씩 돌아가면서 자신이 맡은 문제의 코드와 풀이 방식을 설명하고 질의응답. 한 사람당 최대 10분. 
 - 휴식
-- 22시
+- 23시
 	- 해당주에 정한 알고리즘 이론을 발표 및 같이 공부하며, 모범 코드를 보며 실제로 어떻게 코드를 짜야 하는지 공부함.
   - 
 	- 마치기 전 다음주 과제로 풀어올 5문제를 1인당 1문제씩 배정
@@ -60,12 +60,12 @@ An algorithm study using C during 2024 Summer Vacation. PDA-pro, CBNU Software D
 | 주차 | 주제 |
 |---|---|
 | 1  |  **수학** (합공식/피보나치수/약수/최대공약수/최소공배수/소수) :: 이규민<br>[수업자료]()<br>[문제집](https://www.acmicpc.net/workbook/view/8997) |
-| 2  |  **자료구조** (스택/큐/덱/힙) :: <br>[수업자료]()<br>[문제집](https://www.acmicpc.net/workbook/view/8999) |
-| 3  |  **재귀함수**의 이해 & 여러 가지 **정렬** :: <br>[수업자료]()<br>[문제집](https://www.acmicpc.net/workbook/view/9000) |
-| 4  |  **다이나믹 프로그래밍 (DP)** :: <br>[수업자료]()<br>[문제집](https://www.acmicpc.net/workbook/view/9001) |
-| 5  |  **그래프** 이론과 구현 (1) & **DFS와 BFS 기초** :: <br>[수업자료]()<br>[문제집](https://www.acmicpc.net/workbook/view/9003) |
-| 6  |  **그래프** 이론과 구현 (2) & **DFS와 BFS 응용 & 다익스트라 알고리즘** :: <br>[수업자료]() |
-| 7  |  **분할정복 & 이분탐색**<br>[수업자료]() |
+| 2  |  **자료구조** (스택/큐/덱/힙) :: 이규민<br>[수업자료]()<br>[문제집](https://www.acmicpc.net/workbook/view/8999) |
+| 3  |  **재귀함수**의 이해 & 여러 가지 **정렬** :: 윤준현<br>[수업자료]()<br>[문제집](https://www.acmicpc.net/workbook/view/9000) |
+| 4  |  **다이나믹 프로그래밍 (DP)** :: 신종환<br>[수업자료]()<br>[문제집](https://www.acmicpc.net/workbook/view/9001) |
+| 5  |  **그래프** 이론과 구현 (1) & **DFS와 BFS 기초** :: 박조현<br>[수업자료]()<br>[문제집](https://www.acmicpc.net/workbook/view/9003) |
+| 6  |  **그래프** 이론과 구현 (2) & **DFS와 BFS 응용 & 다익스트라 알고리즘** :: 김금영<br>[수업자료]() |
+| 7  |  **분할정복 & 이분탐색** :: 박승준<br>[수업자료]() |
 | 8  |  **그리디 알고리즘**<br>[수업자료]() |
 | 9  |  **완전탐색(Brute Force) & 시뮬레이션** <br>[수업자료]() |
 | 10  | 실전 문제 풀이  |

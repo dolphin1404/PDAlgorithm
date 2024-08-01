@@ -23,6 +23,7 @@
         "xutility": "cpp",
         "string": "cpp",
         "ostream": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "cmath": "cpp"
     }
 }

@@ -5,7 +5,7 @@ using namespace std;
 
 int digit_sum(const string &str) {
     int sum = 0;
-    for(char c : str) { 
+    for(char c : str) {  
         if(isdigit(c)) {
             sum += c - '0';
         }

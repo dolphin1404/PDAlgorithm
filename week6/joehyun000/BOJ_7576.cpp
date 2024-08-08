@@ -58,8 +58,8 @@ int main() {
 
     for(int i=0; i<N; i++) {
         for(int j=0; j<M; j++) {
-            if(arr[i][j] == 0 && visitedDay[i][j] == -1) {   //탐색함수 돌린 뒤에도 아직 안익은게 있는지 확인 후 그렇다면 -1출력하고 프로그램 종료
-				cout << -1; 
+            if(arr[i][j] == 0 && visitedDay[i][j] == -1) {   //탐색함수 돌린 뒤에도 아직 안익은게 있는지 확인 후
+				cout << -1;                                  //그렇다면 -1출력하고 프로그램 종료
 				return 0; 
             }
             if(visitedDay[i][j] > dayCount) {                //방문한지 가장 오래된 날짜를 출력하기위한 코드
